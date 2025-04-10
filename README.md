@@ -1,43 +1,34 @@
 # Projeto2a: GitHub API e DOM Manipulation
 
-> 1. Baixe este arquivo e edite o texto em formato Markdown conforme as instruções a seguir.
-> 2. Substitua todos os blocos "Preencha aqui" por informações do seu projeto. 
-> 3. Substitua a imagem por pelo menos um screenshot do projeto (arquivo pode ser armazenado no repositório ou em URL externa). GIFs animados também são permitidos!
-> 4. Remova todas as instruções de entrega.
-> 5. Double-check: Certifique-se de que seu README.md não contenha instruções de entrega!
-> 6. Entregue este README.md dentro da pasta raiz do repositório de entrega. 
-
-![Screenshot do projeto](https://mdswanson.com/static/chops-ux-step-4.png "Screenshot do projeto").
+![Screenshot do projeto](img/image.png "Screenshot do projeto")
 
 
 #### Deploy
 
-Preencha aqui a URL para acesso ao site publicado
+https://elc1090.github.io/project2a-2025a-meunomeali/github-api-tutorial-main/index.html
 
 
 #### Desenvolvedor(a)
 
-Preencha aqui seu nome
+Álisson Braga Canabarro
 
 
 #### Ambiente de desenvolvimento
 
-Preencha aqui uma lista detalhada de ferramentas de desenvolvimento usadas, por exemplo:
 - VS Code
-- Outras
 
 #### Créditos
 
-Preencha aqui uma lista detalhada de recursos aproveitados no projeto, por exemplo:
-- URL de tutoriais/vídeos consultados
-- Créditos para colegas que colaboraram
+- [Tutorial](https://codesnippet.io/github-api-tutorial/) utilizado.
 
 
 #### Bastidores
 
 
-Preencha aqui um breve relato dos bastidores da realização deste exercício, com suas impressões.
-
+Foi uma atividade simples, mas acabei levando um tempo para descobrir como fazer o que foi pedido.  
+Por exemplo, uma das requisições era:
+`Adicionar mais um campo no formulário: repositório`
+Eu não sabia como era o funcionamento de um formulário, então eu estava tentando adicionar um segundo formulário apenas para o nome do repositório, depois que eu fui entender como adicionar mais de um campo de texto no mesmo formulário.
 
 
 ---
